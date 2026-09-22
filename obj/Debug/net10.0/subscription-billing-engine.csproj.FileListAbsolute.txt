@@ -1,0 +1,14 @@
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\bin\Debug\net10.0\subscription-billing-engine.exe
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\bin\Debug\net10.0\subscription-billing-engine.deps.json
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\bin\Debug\net10.0\subscription-billing-engine.runtimeconfig.json
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\bin\Debug\net10.0\subscription-billing-engine.dll
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\bin\Debug\net10.0\subscription-billing-engine.pdb
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.AssemblyInfoInputs.cache
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.AssemblyInfo.cs
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.csproj.CoreCompileInputs.cache
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.dll
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\refint\subscription-billing-engine.dll
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.pdb
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\subscription-billing-engine.genruntimeconfig.cache
+C:\Users\tothd\Downloads\projects\subscription-billing-engine\obj\Debug\net10.0\ref\subscription-billing-engine.dll
